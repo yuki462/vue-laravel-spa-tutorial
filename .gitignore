@@ -15,5 +15,5 @@ yarn-error.log
 /.vscode
 
 # compiled page files
-/public/ls
+/public/js
 /public/css
